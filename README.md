@@ -1,6 +1,9 @@
 # Public Basic(기초반)
 기초반 학생들 공통의 프로젝트 폴더
 
+## 기업은행 메인페이지
+[기업은행 메인페이지 썸네일](https://github.com/DesignNas/IbkIndustrialBank-index/blob/master/img/IbkIndustrialbankmain.jpg?raw=true)
+
 ## Text
 기업은행 메인 페이지 코딩에 필요한 text 모음
 
