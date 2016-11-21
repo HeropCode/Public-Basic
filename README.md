@@ -1,5 +1,5 @@
-# IBK 기업은행
-메인 페이지 HTML, CSS, JavaScript 코드
+# Public Basic(기초반)
+기초반 학생들 공통의 프로젝트 폴더
 
 ## Text
 코딩에 필요한 text
